@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`VueDadata.vue Rander Dadata component 1`] = `
+<div
+  class="vue-dadata vue-dadata__container"
+>
+  <div
+    class="vue-dadata__search"
+  >
+    <input
+      class="vue-dadata__input"
+      type="text"
+    />
+  </div>
+   
+  <!---->
+</div>
+`;
+
+exports[`VueDadata.vue Rander Dadata component 2`] = `
+<div
+  class="vue-dadata vue-dadata__container"
+>
+  <div
+    class="vue-dadata__search"
+  >
+    <input
+      class="vue-dadata__input"
+      type="text"
+    />
+  </div>
+   
+  <!---->
+</div>
+`;

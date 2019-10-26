@@ -1,0 +1,162 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`VueDadata.vue Testing working token and query 1`] = `
+<div
+  class="vue-dadata vue-dadata__container"
+>
+  <div
+    class="vue-dadata__search"
+  >
+    <input
+      class="vue-dadata__input"
+      type="text"
+    />
+  </div>
+   
+  <div
+    class="vue-dadata__suggestions"
+    id="suggestions"
+  >
+    <span
+      class="vue-dadata__suggestions-item"
+    >
+      <span
+        class=""
+      >
+        г 
+      </span>
+      <mark
+        class="vue-dadata__suggestions-item-highlight "
+      >
+        Москва
+      </mark>
+    </span>
+    <span
+      class="vue-dadata__suggestions-item"
+    >
+      <span
+        class=""
+      >
+        Нижегородская обл, Лукояновский р-н, поселок Новая 
+      </span>
+      <mark
+        class="vue-dadata__suggestions-item-highlight "
+      >
+        Москва
+      </mark>
+    </span>
+    <span
+      class="vue-dadata__suggestions-item"
+    >
+      <span
+        class=""
+      >
+        Приморский край, Шкотовский р-н, деревня Новая 
+      </span>
+      <mark
+        class="vue-dadata__suggestions-item-highlight "
+      >
+        Москва
+      </mark>
+    </span>
+    <span
+      class="vue-dadata__suggestions-item"
+    >
+      <span
+        class=""
+      >
+        респ Башкортостан, Бижбулякский р-н, село Менеуз-
+      </span>
+      <mark
+        class="vue-dadata__suggestions-item-highlight "
+      >
+        Москва
+      </mark>
+    </span>
+    <span
+      class="vue-dadata__suggestions-item"
+    >
+      <span
+        class=""
+      >
+        Псковская обл, Порховский р-н, деревня 
+      </span>
+      <mark
+        class="vue-dadata__suggestions-item-highlight "
+      >
+        Москва
+      </mark>
+    </span>
+    <span
+      class="vue-dadata__suggestions-item"
+    >
+      <span
+        class=""
+      >
+        Брянская обл, Красногорский р-н, поселок Новая 
+      </span>
+      <mark
+        class="vue-dadata__suggestions-item-highlight "
+      >
+        Москва
+      </mark>
+    </span>
+    <span
+      class="vue-dadata__suggestions-item"
+    >
+      <span
+        class=""
+      >
+        Кировская обл, Верхошижемский р-н, деревня 
+      </span>
+      <mark
+        class="vue-dadata__suggestions-item-highlight "
+      >
+        Москва
+      </mark>
+    </span>
+    <span
+      class="vue-dadata__suggestions-item"
+    >
+      <span
+        class=""
+      >
+        Тамбовская обл, рп Мучкапский, ул Красная 
+      </span>
+      <mark
+        class="vue-dadata__suggestions-item-highlight "
+      >
+        Москва
+      </mark>
+    </span>
+    <span
+      class="vue-dadata__suggestions-item"
+    >
+      <span
+        class=""
+      >
+        Тверская обл, Пеновский р-н, деревня 
+      </span>
+      <mark
+        class="vue-dadata__suggestions-item-highlight "
+      >
+        Москва
+      </mark>
+    </span>
+    <span
+      class="vue-dadata__suggestions-item"
+    >
+      <span
+        class=""
+      >
+        Московская обл, Ногинский р-н, тер. снт Вечерняя 
+      </span>
+      <mark
+        class="vue-dadata__suggestions-item-highlight "
+      >
+        Москва
+      </mark>
+    </span>
+  </div>
+</div>
+`;

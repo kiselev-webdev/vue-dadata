@@ -1,6 +1,15 @@
 <template>
   <div id="app">
-    <vue-dadata :token="token" @handleError="handleError"></vue-dadata>
+    <vue-dadata
+      :token="token"
+      @handleError="handleError"
+      input-name="vue-dadata"
+      from-bound="region"
+      to-bound="house"
+      highlight-class-name="vue-dadata__highlight"
+      unhighlight-class-name="vue-dadata__unhighlight"
+      highlight-tag="span"
+    ></vue-dadata>
   </div>
 </template>
 
@@ -15,7 +24,7 @@ import VueDadata from '@/components/VueDadata.vue';
   },
 })
 export default class App extends Vue {
-  public token: string = '';
+  public token = '';
 
   public created() {
     this.token = process.env.VUE_APP_DADATA_API_KEY;
@@ -30,5 +39,10 @@ export default class App extends Vue {
 
 <style lang="scss">
 #app {
+}
+
+.vue-dadata__highlight {
+  background-color: yellow;
+  opacity: 0.2;
 }
 </style>
